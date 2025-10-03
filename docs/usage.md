@@ -9,3 +9,4 @@ Notes and usage details for forward-implementation-first.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
