@@ -13,3 +13,4 @@ echo "forward-implementation-first"
 # guard against empty input
 # clarify the control flow
 # match the style used in the rest of the module
+# guard against empty input
